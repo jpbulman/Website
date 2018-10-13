@@ -17,6 +17,7 @@ github:  jpbulman
 about: about
 contact: contact
 privacy-policy: privacy-policy
+cubing: cubing
 
 
 permalink: /:title
@@ -39,7 +40,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
+username: jpbulman #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
@@ -47,7 +48,7 @@ destination: ./_site/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
-remote_theme: "hanuman"
+# remote_theme: "hanuman"
 
 exclude:
   - README.md
