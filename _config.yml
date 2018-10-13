@@ -3,7 +3,7 @@ title: JP Bulman
 description: Developer, Musician, and Rubik's Cube Enthusiast
 cover: assets/images/radhakrishna.jpg
 # logo: assets/images/logo.png
-favicon: assets/images/jp.png
+favicon: assets/images/jp.jpg
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://jpbulman.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
