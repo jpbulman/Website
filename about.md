@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
@@ -17,3 +17,21 @@ Worcester Polytechnic Institute
 
 Melrose High School
 : General Studies H.S. Diploma, Graduated May 2017
+
+<h3 id="heading3">Related Courses (WPI)</h3>
+<ul>
+<li>Accelerated Introduction To Program Design - 1102</li>
+<li>Introduction To Machine Organization and Assembly Language - 2011</li>
+<li>Discrete Mathematics - 2022</li>
+<li>Object-oriented Design Concepts - 2102</li>
+<li>Algorithms - 2223</li>
+<li>Systems Programming Concepts - 2303</li>
+<li>Social Implications of Information Processing - 3043</li>
+<li>Foundations of Computer Science - 3133</li>
+<li>Operating Systems - 3013*</li>
+<li>Database Systems I - 3431*</li>
+<li>Software Engineering - 3733*</li>
+<li>Database Systems II - 4432*</li>
+<li>Biovisualization - 4802*</li>
+* To be completed by May 2019
+</ul>
