@@ -14,3 +14,11 @@ krishna:
   url: shriradhakrishna.com
   bio: Radhe! Radhe!
   assets: assets/images/favicon.png
+JP:
+  username: jpbulman
+  name: JP Bulman
+  location: WPI
+  url_full: https://jpbulman.com
+  url: jpbulman.com
+  bio: Rubik's Cubes and CS
+  assets: assets/images/jp.jpg
