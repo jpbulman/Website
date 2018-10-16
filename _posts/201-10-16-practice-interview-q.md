@@ -7,7 +7,7 @@ tags: practice interview
 author: jpbulman
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wwIysnVmAUg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Using the problem from this video
+<p>Using the problem from this video</p>
 <h2 id="heading2">Initial Problem</h2>
 <p>Given an <b>ordered</b> list of integers A, where A = {a<sub>0</sub>,...,a<sub>n</sub>} and for any i a<sub>i</sub> < a<sub>i+1</sub>, A ⊆ &#8484; (positive and negative integers), and a value k, find any pair of numbers in the list such that a<sub>i</sub> + a<sub>j</sub> = k. Assume that A is already in memory and the list can be treated as an array</p>
 <h3 id="heading3">Brute force solution</h3>
