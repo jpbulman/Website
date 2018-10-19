@@ -725,3 +725,7 @@ body > figure > figcaption > header > h2 {
 .ampstart-read-text{
     background:$theme-color
 }
+
+* {
+  font-feature-settings: "liga" 0;
+}
