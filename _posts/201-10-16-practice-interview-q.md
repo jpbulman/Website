@@ -13,7 +13,7 @@ author: jpbulman
 <h2 id="heading2">Initial Problem</h2>
 <p>Given an <b>ordered</b> list of integers A, where A = {a<sub>0</sub>,...,a<sub>n</sub>} and for any i a<sub>i</sub> < a<sub>i+1</sub>, A ⊆ &#8484; (positive and negative integers), and a value k, find any pair of numbers in the list such that a<sub>i</sub> + a<sub>j</sub> = k. Assume that A is already in memory and the list can be treated as an array</p>
 <h3 id="heading3">Brute force solution</h3>
-(I'm going to do my solutions in Java)The most obvious and initial answer is just to iterate through each item, look at every other item in the list, see if there sum is k, and then return if so.
+(I'm going to do my solutions in Java)The most obvious and initial answer is just to iterate through each item, look at every other item in the list, see if their sum is k, and then return true if so.
 
 ```java
 private static boolean sumTest(int[] givenList,int k){
@@ -95,7 +95,7 @@ private static boolean NsumTest(int[] givenList, int k){
 ```
 
 <h2 id="heading2">No more sorting</h2>
-Now this gets interesting, the list is no longer sorted. The solution to this is simple, but also very subtle. The video suggests storing a HashSet of the complements of each number and then look at each number and see if it is in the HashSet. This works very well because Hash lookups are constant time operations O(1), and looking through the list is just O(n), which means the whole operation will run in O(n)time.
+Now this gets interesting, the list is no longer sorted. The solution to this is simple, but also very subtle. The video suggests storing a HashSet of the complements of each number and then to look at each number and see if it is in the HashSet. This works very well because Hash lookups are a constant time operations, O(1), and looking through the list is just O(n), which means the whole operation will run in O(n)time.
 
 ```java
 private static boolean hashSumTest(int[] givenList, int k){
