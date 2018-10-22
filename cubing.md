@@ -14,6 +14,9 @@ I have solved a Rubik's Cube in 9 different countries: USA, Canada, England, Fra
 
 <p>I went to my first competition in the fall of 2013, which means I have been competing for about 5 years now. I have been to a total of 37 competitions and have completed 1542 different solves.</p>
 
+<h2 id="heading2">Being a Delegate/Organizer</h2>
+<p>I am currently a WCA candidate delegate for the Massachusetts and northeast USA region. This means that I oversee competitions to make sure that they follow all of the proper procedures and rules so the results can be considered valid. More details can be found on the WCA delegate <a href="https://www.worldcubeassociation.org/delegates">page</a>.</p>
+
 <h2 id="heading2">Official Statistics</h2>
 My official stats are all recorded in my <a href="https://www.worldcubeassociation.org/persons/2013BULM01" target="_blank">WCA profile</a>, which can also be found by clicking any of the cube icons throughout this site. Here is a quick overview of them
 Updated October 13th 2018
