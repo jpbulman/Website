@@ -10,6 +10,7 @@ permalink: /music/
 <h3 id="heading3">Experiences</h3>
 <p>These are some of my the great oppurtunities I have had while playing trombone.</p>
 <h4 id="heading4">Washington D.C. Parade</h4>
+<p>In May 2017, the Melrose High School Marching Band represented the state of Massachusetts by marching in the national Memorial Day parade.</p>
 <h4 id="heading4">Symphony Hall Masterclass</h4>
 <h4 id="heading4">New England Ambassadors Tour</h4>
 
