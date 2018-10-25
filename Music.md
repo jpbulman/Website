@@ -14,3 +14,4 @@ permalink: /music/
 <h4 id="heading4">New England Ambassadors Tour</h4>
 
 <h2 id="heading2">Listening to music</h2>
+<p>I listen to <b>a lot</b> of classic rock. My favorite bands include Led Zeppelin, Boston, The Who, ACDC, The Beatles, and more. </p>
