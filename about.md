@@ -30,8 +30,7 @@ Melrose High School
 <li>Foundations of Computer Science - 3133</li>
 <li>Operating Systems - 3013*</li>
 <li>Database Systems I - 3431*</li>
-<li>Software Engineering - 3733*</li>
-<li>Database Systems II - 4432*</li>
-<li>Biovisualization - 4802*</li>
+<li>Software Engineering - 3733</li>
+<li>Computer Architecture - 4515*</li>
 * To be completed by May 2019
 </ul>
