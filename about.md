@@ -19,18 +19,32 @@ Melrose High School
 : General Studies H.S. Diploma, Graduated May 2017
 
 <h3 id="heading3">Related Courses (WPI)</h3>
+
+<h4>Intro Courses</h4>
 <ul>
 <li>Accelerated Introduction To Program Design - 1102</li>
-<li>Introduction To Machine Organization and Assembly Language - 2011</li>
-<li>Discrete Mathematics - 2022</li>
 <li>Object-oriented Design Concepts - 2102</li>
-<li>Algorithms - 2223</li>
-<li>Systems Programming Concepts - 2303</li>
-<li>Social Implications of Information Processing - 3043</li>
-<li>Foundations of Computer Science - 3133</li>
-<li>Operating Systems - 3013*</li>
-<li>Database Systems I - 3431*</li>
-<li>Software Engineering - 3733</li>
-<li>Computer Architecture - 4515*</li>
-* To be completed by May 2019
 </ul>
+
+<h4>Application</h4>
+<ul>
+<li>Social Implications of Information Processing - 3043</li>
+<li>Software Engineering - 3733</li>
+<li>Database Systems I - 3431*</li>
+</ul>
+
+<h4>Theory</h4>
+<ul>
+<li>Discrete Mathematics - 2022</li>
+<li>Algorithms - 2223</li>
+<li>Foundations of Computer Science - 3133</li>
+</ul>
+
+<h4>Systems and Low Level Programming</h4>
+<ul>
+<li>Systems Programming Concepts - 2303</li>
+<li>Introduction To Machine Organization and Assembly Language - 2011</li>
+<li>Operating Systems - 3013*</li>
+<li>Computer Architecture - 4515*</li>
+</ul>
+<sub>* To be completed by May 2019</sub>
