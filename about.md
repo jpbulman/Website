@@ -13,7 +13,7 @@ My name is JP Bulman, I am a sophmore at WPI majoring in computer science. I am 
 
 <h2 id="heading 2">Education</h2>
 Worcester Polytechnic Institute 
-: B.S. in Computer Science May 2021
+: B.S. in Computer Science May 2020
 
 Melrose High School
 : General Studies H.S. Diploma, Graduated May 2017
@@ -30,7 +30,10 @@ Melrose High School
 <ul>
 <li>Social Implications of Information Processing - 3043</li>
 <li>Software Engineering - 3733</li>
-<li>Database Systems I - 3431*</li>
+<li>Database Systems I - 3431</li>
+<li>Mobile and Ubiquitous Computing - 528 *</li>
+<li>Artificial Intelligence - 534 *</li>
+<li>Data Visualization - 480X *</li>
 </ul>
 
 <h4>Theory</h4>
@@ -38,13 +41,15 @@ Melrose High School
 <li>Discrete Mathematics - 2022</li>
 <li>Algorithms - 2223</li>
 <li>Foundations of Computer Science - 3133</li>
+<li>Linear Algebra - MA 2071</li>
 </ul>
 
 <h4>Systems and Low Level Programming</h4>
 <ul>
 <li>Systems Programming Concepts - 2303</li>
 <li>Introduction To Machine Organization and Assembly Language - 2011</li>
-<li>Operating Systems - 3013*</li>
-<li>Computer Architecture - 4515*</li>
+<li>Operating Systems - 3013</li>
+<li>Computer Architecture - 4515</li>
 </ul>
-<sub>* To be completed by May 2019</sub>
+
+<sub>* To be completed by May 2020</sub>
